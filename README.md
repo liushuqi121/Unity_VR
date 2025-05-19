@@ -129,23 +129,5 @@ bash
 复制
 编辑
 ros2 run ros_tcp_endpoint default_server_endpoint --ros-args -p ROS_IP:=192.168.3.25
-📷 示例截图
 
 
-🧑‍🎓 作者信息
-刘书齐
-本科毕业设计 · XX大学 XX学院
-指导教师：XXX 教授
-时间：2025年5月
-
-📜 License
-本项目仅供教学研究用途，禁止商业使用。如需授权，请联系作者。
-
-🔗 参考链接
-Unity 官方文档
-
-ROS2 Documentation
-
-ROS-TCP-Connector 插件
-
-Oculus 开发文档
