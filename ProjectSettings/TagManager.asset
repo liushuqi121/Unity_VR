@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Airwall_2
+  - arm
+  - Airwall
+  - target
+  - InteractiveUI
+  - arm_2
+  - Line
+  - a2
   layers:
   - Default
   - TransparentFX

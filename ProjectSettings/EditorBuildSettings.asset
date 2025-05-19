@@ -4,5 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: Assets/1.unity
+    guid: 990b0db4dc572db4e835e8bfde9d2508
+  - enabled: 1
+    path: Assets/0.unity
+    guid: a5a0f263067419b4cb7ef2808c635231
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 0e4919ff7cdcdd64999bcc57d25edb04, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 164eaa4d95f72fe44ba116eb0ca3383c, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3d18641a07198d942b3fa8c97516d79e, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 0be0028c24f2a4c14a96b6aa39055933, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1574bc653c8fb9548b7149cc70e1b566, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7120010e33ef6be49b83a8df9c9e5ee5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7c508bde9b5472846b980aa0029df606, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9df3839e3db5fd44a8268d4e57751d73, type: 2}
